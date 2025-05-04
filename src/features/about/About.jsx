@@ -42,12 +42,7 @@ function About() {
               About me:
             </h2>
             <p className="text-lg font-medium leading-tight text-slate-400 xl:text-xl">
-              As a Junior Front-End Developer, I possess an impressive arsenal
-              of skills in HTML, CSS, JavaScript, React and Tailwind. I excel in
-              designing and maintaining responsive websites that offer a smooth
-              user experience. I am also a team player who thrives in
-              collaborating with cross-functional teams to produce outstanding
-              web applications.
+            👋 Hi folks, With roles like Core ML Team Member at UiPath, Marketing Lead at KIIT Robotics Society, and Sponsorship & PR Senior Executive at FED-KIIT, I've developed a strong foundation in communication, negotiation, and project management. Outside academics, I enjoy exploring podcasts and applying my technical background to impactful projects. I’m eager to bring my expertise to new opportunities in tech.
             </p>
           </div>
           <div className=" xl:w-1/2">
