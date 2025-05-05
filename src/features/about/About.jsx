@@ -32,7 +32,7 @@ function About() {
             </h1>
             <h2 className="text-xl max-sm:hidden">
               Hi, I'm Suvansh Choudhary. A passionate Website Developer and ML
-              Enthusiast. <br /> based in Varanasi,India. 📍
+              Enthusiast. <br /> based in Varanasi, India. 📍
             </h2>
           </div>
         </div>
