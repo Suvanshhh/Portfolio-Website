@@ -11,7 +11,7 @@ function Footer() {
       <div className="flex items-center gap-x-3">
         <a
           className="flex items-center hover:bg-bottombarHoverBg"
-          href="https://github.com/manavss/"
+          href="https://github.com/Suvanshhh"
           target="_blank"
           rel="noreferrer"
         >
