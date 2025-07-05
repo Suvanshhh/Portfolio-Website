@@ -29,6 +29,14 @@ function Footer() {
         <div className=" cursor-pointer hover:bg-bottombarHoverBg">
           <BellIcon />
         </div>
+        <a
+          href="https://getsongbpm.com"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="ml-4 text-xs text-blue-400 underline hover:text-blue-600"
+        >
+          Music data by GetSongBPM.com
+        </a>
       </div>
     </div>
   );
